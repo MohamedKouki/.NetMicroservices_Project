@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\.Net_Microservices_Project\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net7.0\Play.Catalog.Service.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\.Net_Microservices_Project\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net7.0\Play.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\.Net_Microservices_Project\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net7.0\Play.Catalog.Service.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\.Net_Microservices_Project\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net7.0\Play.Catalog.Service.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\.Net_Microservices_Project\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net7.0\Play.Catalog.Service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\.Net_Microservices_Project\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net7.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\.Net_Microservices_Project\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net7.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache

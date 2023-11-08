@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        },
+        {
+            "type": "DotNetWatch",
+            "request": "launch",
+            "name": ".NET Core Watch: Play.Catalog.Service",
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "DOTNET_WATCH_RESTART_ON_RUDE_EDIT": "true"
+            },
+            "project": "Play.Catalog.Service.csproj"
+        }
+    ]
+}

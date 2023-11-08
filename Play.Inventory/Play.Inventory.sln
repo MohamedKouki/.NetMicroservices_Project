@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{773EC8CC-9F93-4759-82F2-78AF77B636CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Play.Inventory.Services", "src\Play.Inventory.Services\Play.Inventory.Services.csproj", "{CEBFE448-4D38-43C7-BC92-BB1857C0C556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBFE448-4D38-43C7-BC92-BB1857C0C556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBFE448-4D38-43C7-BC92-BB1857C0C556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBFE448-4D38-43C7-BC92-BB1857C0C556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBFE448-4D38-43C7-BC92-BB1857C0C556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CEBFE448-4D38-43C7-BC92-BB1857C0C556} = {773EC8CC-9F93-4759-82F2-78AF77B636CA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29B1EEB2-D3C9-4767-ABCE-31C998301194}
+	EndGlobalSection
+EndGlobal
